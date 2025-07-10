@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Software Developer Portfolio: Welcome to my blog!
 ---
